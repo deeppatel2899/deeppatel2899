@@ -20,7 +20,7 @@
 
 | Project | What it is | Status |
 |---|---|---|
-| **Test Automation Showcase** | End-to-end UI and API test framework with page objects, reporting and CI | 🚧 In progress |
+| [**playwright-test-automation**](https://github.com/deeppatel2899/playwright-test-automation) | UI and API test framework in Python with Playwright and pytest: page objects, cross-browser CI, traces and HTML reports | ✅ Active |
 | **OpenJaw** | Flight search for open-jaw trips: fly into one city, return from another, book on the airline's site | 🚧 In progress |
 
 ## 🗂️ Earlier work
